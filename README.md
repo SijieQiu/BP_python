@@ -18,7 +18,7 @@ Q3:Does the use of makeup (makeupdummy) significantly impact the perceived attra
 
 ## 3.Background Information
 
-- Contributor Information: Angela, Povoa 
+- Contributor: Angela, Povoa 
 - PUBLISHER(S):Mendeley Data
 - DOI:10.17632/553zngdbpk.1
 - Institutions:Pontificia Universidade Catolica do Parana
